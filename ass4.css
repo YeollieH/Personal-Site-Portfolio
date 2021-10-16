@@ -11,8 +11,11 @@
 }
 
 .title{ 
-    color: white;
-    text-align: center;   
+    color:#B2F9FC;
+    text-align: center; 
+    padding-bottom: 10px;  
+    margin-top: 5px;
+    font-family:cursive; 
 }
 
 .about{
@@ -102,7 +105,7 @@ table{
     
 }
 .footer-link:hover{
-    color:#8AC4D0;
+    color:#B2F9FC;
 }
 
 .copyright{
